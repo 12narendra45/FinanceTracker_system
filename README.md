@@ -22,6 +22,9 @@ It helps users track income, expenses, and view analytics with interactive chart
 ### 🔑 Login Page  
 ![Login Page](./screenshots/login.png)  
 
+### 🔑 Register Page  
+![Login Page](./screenshots/register.png)  
+
 ### 🏠 Dashboard  
 ![Dashboard](./screenshots/dashboard.png)  
 
